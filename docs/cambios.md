@@ -1,0 +1,1 @@
+LB-01 revisada y aprobada para iniciar la práctica
