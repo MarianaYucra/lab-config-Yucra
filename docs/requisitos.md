@@ -1,1 +1,1 @@
-RF-01: aceptar reservas enteras entre 1 y 4 horas
+RF-01: aceptar reservas enteras entre 1 y 2 horas
